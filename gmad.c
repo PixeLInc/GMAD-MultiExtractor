@@ -211,7 +211,7 @@ int main(const int argc, const char *argv[])
     return 0;
   }
 
-  extractFile(argv[1], outputDirectory);
+  // extractFile(argv[1], outputDirectory);
 
 	return 0;
 }
